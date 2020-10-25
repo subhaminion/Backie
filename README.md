@@ -26,3 +26,6 @@ python ecommerce_worker.py
     https://httpbin.org/24dkq40/example@example.org
     succesful run of task: 4ed63e42-f614-4093-a654-46211d5de8cf
 ```
+
+
+### PS: Blog post coming soon.
