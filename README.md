@@ -1,4 +1,4 @@
-# Backie
+# Backie :construction_worker:
 A background task processor.
 
 This repo is all about me figuring out how background task processors work.
